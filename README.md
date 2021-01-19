@@ -4,6 +4,9 @@
 * [Licecap](https://www.cockos.com/licecap/) (standalone EXE included in utils folder for Windows users; other screen -> GIF software okay too!)
 * (Recommended)[Visual Studio Code](https://code.visualstudio.com/)
 
+## Book URL
+[The road to react](https://github.com/the-road-to-learn-react/the-road-to-react)
+
 ## Github Usage
 All projects will be hosted in Github using this organization (HSU-S21-CS480).  You can get enrolled in this organization by taking the following steps:
 
